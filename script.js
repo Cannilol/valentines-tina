@@ -6,8 +6,8 @@ const messages = [
     "I'll be really sad if u say no",
     "Tina please Im begging u",
     "I will be very sad...",
-    "I will be very very very sad...",
-    "Why dont u want me",
+    "PLEASE PLEASE PLEASE PLEASE PLEASE",
+    "You don't have a choice ehehehe",
     "Say yes pleaseee ❤️"
 ];
 
